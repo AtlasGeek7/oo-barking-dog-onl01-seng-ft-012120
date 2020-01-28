@@ -5,5 +5,7 @@ def Dog
  def name
    @name
  end 
- 
+ def bark
+  puts   
+ end
 end
